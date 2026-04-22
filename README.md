@@ -1,4 +1,4 @@
-# Olá, eu sou o [Gustavo Deodato]! 👋
+# Olá, eu sou o Gustavo Deodato! 👋
 
 Sou um estudante focado em **Back-end** e curioso por resolver problemas complexos através do código. Atualmente, estou cursando Desenvolvimento de Sistemas e aprimorando minhas habilidades em arquitetura de software.
 
@@ -16,5 +16,5 @@ Sou um estudante focado em **Back-end** e curioso por resolver problemas complex
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gusttavodeodato&show_icons=true&theme=dracula)
 
 ## 📫 Como me encontrar
-* **LinkedIn:** [https://www.linkedin.com/in/gustavo-deodato-808218309/]
-* **Email:** [guustavodeodato@outlook.com]
+* **LinkedIn:** https://www.linkedin.com/in/gustavo-deodato-808218309/
+* **Email:** guustavodeodato@outlook.com
