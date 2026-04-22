@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o [Seu Nome]! 👋
 
-<!--
-**gusttavodeodato/gusttavodeodato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor focado em **Back-end** e apaixonado por resolver problemas complexos através do código. Atualmente, estou cursando Desenvolvimento de Sistemas e aprimorando minhas habilidades em arquitetura de software.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+* **Linguagens:** Java, JavaScript (Node.js)
+* **Frameworks:** Spring Boot, Express
+* **Bancos de Dados:** PostgreSQL, MySQL
+* **Ambiente:** Ubuntu Linux / GNOME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em Destaque
+* **Sistema de Gerenciamento:** Um sistema completo com Java e Spring Boot para automação de processos.
+* **API de Assinaturas:** Desenvolvimento de back-end para controle de contas e planos.
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+
+## 📫 Como me encontrar
+* **LinkedIn:** [link-para-seu-perfil]
+* **Email:** [seu-email@exemplo.com]
