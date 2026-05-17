@@ -9,5 +9,5 @@ Sou um estudante focado em **Back-end** e curioso por resolver problemas complex
 * **Ambiente:** Ubuntu Linux / GNOME
 
 ## 📫 Como me encontrar
-* **LinkedIn:** https://www.linkedin.com/in/gustavo-deodato-808218309/
-* **Email:** guustavodeodato@outlook.com
+* [LinkedIn](https://www.linkedin.com/in/gustavo-deodato-808218309/)
+
